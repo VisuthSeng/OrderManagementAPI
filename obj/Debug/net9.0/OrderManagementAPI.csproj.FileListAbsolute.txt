@@ -154,3 +154,4 @@
 /Users/suth/Desktop/OrderManagementAPI/obj/Debug/net9.0/OrderManagementAPI.pdb
 /Users/suth/Desktop/OrderManagementAPI/obj/Debug/net9.0/OrderManagementAPI.genruntimeconfig.cache
 /Users/suth/Desktop/OrderManagementAPI/obj/Debug/net9.0/ref/OrderManagementAPI.dll
+/Users/suth/Desktop/OrderManagementAPI/obj/Debug/net9.0/OrderManagementAPI.sourcelink.json
